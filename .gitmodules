@@ -1,0 +1,3 @@
+[submodule "Odoo"]
+	path = Odoo
+	url = https://github.com/Nihalnhl/Odoo.git
